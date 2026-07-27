@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <data-extraction-rules>
+        <domain-configurations>
+            <domain-config clearbtningstyle="basic">
+                <domain>example.com</domain>
+            </domain-config>
+        </domain-configurations>
+    </data-extraction-rules>
+</resources>
