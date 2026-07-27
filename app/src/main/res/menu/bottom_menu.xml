@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="الرئيسية" />
+
+    <item
+        android:id="@+id/nav_servers"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="السيرفرات" />
+
+    <item
+        android:id="@+id/nav_logs"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="السجلات" />
+
+    <item
+        android:id="@+id/nav_tools"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="الأدوات" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="الإعدادات" />
+</menu>

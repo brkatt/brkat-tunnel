@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night Colors -->
+    <color name="background_dark">@color/gray_900</color>
+    <color name="surface_dark">@color/gray_800</color>
+    <color name="text_dark">@color/white</color>
+    <color name="text_secondary_dark">@color/gray_300</color>
+</resources>

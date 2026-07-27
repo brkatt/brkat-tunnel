@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brkat Tunnel</string>
+    <string name="app_version">1.0.0</string>
+    <string name="developer">Brkat Development Team</string>
+
+    <!-- Navigation Strings -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_servers">السيرفرات</string>
+    <string name="nav_logs">السجلات</string>
+    <string name="nav_tools">الأدوات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Button Strings -->
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع الاتصال</string>
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="share">مشاركة</string>
+    <string name="copy">نسخ</string>
+
+    <!-- Status Strings -->
+    <string name="status_connected">متصل</string>
+    <string name="status_disconnected">غير متصل</string>
+    <string name="status_connecting">جاري الاتصال...</string>
+    <string name="status_disconnecting">جاري قطع الاتصال...</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_channel_vpn">خدمة VPN</string>
+    <string name="notification_channel_general">إشعارات عامة</string>
+    <string name="notification_vpn_running">خدمة VPN قيد التشغيل</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_server">بيانات السيرفر غير صحيحة</string>
+    <string name="error_connection_failed">فشل الاتصال</string>
+    <string name="error_empty_field">الحقل مطلوب</string>
+    <string name="error_invalid_ip">عنوان IP غير صحيح</string>
+    <string name="error_invalid_port">المنفذ غير صحيح (1-65535)</string>
+
+    <!-- Success Messages -->
+    <string name="success_server_added">تم إضافة السيرفر بنجاح</string>
+    <string name="success_server_deleted">تم حذف السيرفر بنجاح</string>
+    <string name="success_connected">تم الاتصال بنجاح</string>
+</resources>
